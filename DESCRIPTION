@@ -1,0 +1,10 @@
+Package: NBAStats
+Title: Functions for NBA Stats
+Version: 0.0.0.9000
+Authors@R: person("First", "Last", email = "first.last@example.com", role = c("aut", "cre"))
+Description: f1: take year input, returns players who scored the most points; f2: takes year input, returns oldest plater(s); f3:takes year input, returns correlation matrix for cont variables.
+Depends: R (>= 3.4.1)
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1.9000
